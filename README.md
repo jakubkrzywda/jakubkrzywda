@@ -17,8 +17,9 @@
 ### Cloud Native  
 <div align="center">  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>   
-<a href="https://helm.sh/" target="_blank"><img style="margin: 10px" src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png" alt="Helm" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<a href="https://helm.sh/" target="_blank"><img style="margin: 10px" src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png" alt="Helm" height="50" /></a>
+<a href="https://kustomize.io//" target="_blank"><img style="margin: 10px" src="https://rtfm.co.ua/wp-content/uploads/2023/01/62b31d4bb223544c209f5e86-1.png" alt="Kustomize" height="50" /></a>
 </div>
 
 </td><td valign="top" width="25%">
@@ -41,7 +42,8 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://argo-cd.readthedocs.io/" target="_blank"><img style="margin: 10px" src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png" alt="Argo CD" height="50" /></a>  
+  
 </div>
 
 </td><td valign="top" width="25%">
@@ -50,8 +52,10 @@
 
 ### Observability  
 <div align="center">  
+
+<a href="https://prometheus.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png" alt="Prometheus" height="50" /></a>  
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>
+<a href="https://opensearch.org/" target="_blank"><img style="margin: 10px" src="https://opensearch.org/assets/opensearch-twitter-card.png" alt="OpenSearch" height="50" /></a>
 </div>
 
 </td></tr></table>  
